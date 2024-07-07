@@ -46,7 +46,7 @@ Using TapShare is simple. Follow these steps:
 - Offline support.
 
 
-## Support
+## Support_From_The_Team
 
 If you have any questions or issues with TapShare, feel free to contact the support team via email at [tapsharesite@gmail.com](mailto:tapsharesite@gmail.com).
 
